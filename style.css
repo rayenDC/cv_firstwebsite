@@ -1,0 +1,99 @@
+*
+{
+    font-familly: "poppins"
+}
+
+
+body
+{
+    background :lightblue ;
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin:50px ;
+}
+.container
+{
+    width:100% ;
+    max-width: 1000px ;
+    min-height :800px ;
+    background: #fff;
+
+}
+.container .lift_side
+{
+    background: #005b85;
+    width: 35% ;
+    min-height :0px ;
+    
+
+}
+.right-side
+ {
+    width: 55%; 
+    padding: 20px;
+    
+}
+img
+{
+    width: 200px ;
+    height:200px ;
+    border-radius: 50%;
+}
+.profileText 
+{
+
+    display:flex ;
+    flex-direction:column;
+    align-items :center ;
+    padding-bottom:20px ;
+    border-bottom :1px solid rgba(255, 255, 255, 0.2) ;
+}
+.profileText h2
+{
+    color:#fff ;
+    font-size: 1.5em ;
+    margin-top:20px ;
+    text-align :center ;
+}
+.profileText span
+{
+    font-size:0.8em ;
+    font-weight: 300 ;
+}
+.contactIntfo 
+{
+    padding-top : 40px ;
+}
+.title
+{
+    color:#fff ;
+    font-weight: 600 ;
+}
+.icon
+{
+    color: #03a9f4 ;
+}
+.contactInfo_education h5
+ {
+    color:#003b62 ;
+ }
+
+.right_side{
+    margin-left:37% ;
+    margin-top: -725px;
+}
+.firstparagraph p
+{
+    margin-left:8% ;
+}
+.secondparagraph:{
+
+}
+.secondparagraph h3{
+    color:#3a005c;
+}
+.secondparagraph h2{
+    color:#3a005c;
+}
